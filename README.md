@@ -91,7 +91,7 @@ v = sin^{-1}(Ny) / PI + 0.5
 
 </br>
 
-## 🚀 TrolbleShooting
+## 🚀 TrobleShooting
 - **Facing Direction Inside Sphere**
    When zooming out, the camera could see the sphere’s front face, blocking the intended environment. Solved by enabling front-face culling in OpenGL.
   
